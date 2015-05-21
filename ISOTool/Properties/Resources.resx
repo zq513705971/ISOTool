@@ -118,53 +118,53 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ConfirmCancelCaption" xml:space="preserve">
-    <value>Cancel Backup</value>
+    <value>取消备份</value>
   </data>
   <data name="ConfirmCancelMessage" xml:space="preserve">
-    <value>You currently have a backup in progress.  Canceling the backup will leave your media in an invalid state.  Are you sure you wish to cancel?</value>
+    <value>您有正在进行中的备份，取消备份将导致你的介质处于无效状态。您确定要取消吗？</value>
   </data>
   <data name="DefaultDriveLabel" xml:space="preserve">
-    <value>Removable Disk</value>
+    <value>可移动磁盘</value>
   </data>
   <data name="DvdBurningProgress" xml:space="preserve">
-    <value>{0} (estimated time remaining {1})</value>
+    <value>{0} (估计剩余时间 {1})</value>
   </data>
   <data name="DvdFreeSpaceMessage" xml:space="preserve">
-    <value>The disc does not have sufficient free space.  Please insert a blank DVD and try again.</value>
+    <value>磁盘没有足够的空闲空间，请插入一张空白dvd后再试一次。</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="DvdImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\DvdImage.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DvdNoDrivesMessage" xml:space="preserve">
-    <value>Unable to locate a compatible DVD drive.  Please make sure your DVD drive is connected and capable of creating discs.</value>
+    <value>无法找到一个兼容的DVD驱动器。请确保能够连接到您的DVD驱动器并能够创建光盘。</value>
   </data>
   <data name="DvdNoMediaMessage" xml:space="preserve">
-    <value>There is no disc in the drive.  Please insert a blank disc and try again.</value>
+    <value>在驱动器中没有磁盘。请插入一张空白盘，然后再试一次。</value>
   </data>
   <data name="DvdNotBlankMessage" xml:space="preserve">
-    <value>The disc is not blank.  Please insert a blank DVD and try again.</value>
+    <value>光盘不是空白。请插入一张空白DVD，然后再试一次。</value>
   </data>
   <data name="DvdNotReadyMessage" xml:space="preserve">
-    <value>The DVD drive is still trying to read the disc.  Please wait a few moments and try again.</value>
+    <value>这个DVD驱动器仍然在读盘，请稍等片刻，然后再试一次。</value>
   </data>
   <data name="DvdReadyMessage" xml:space="preserve">
-    <value>Ready to burn. Click "Begin burning" to create the backup DVD.</value>
+    <value>准备刻录，点击“开始刻录”来创建DVD备份。</value>
   </data>
   <data name="HelpLinkUrl" xml:space="preserve">
     <value>http://go.microsoft.com/fwlink/?LinkId=163455&amp;clcid=0x409</value>
   </data>
   <data name="IsoInvalidCaption" xml:space="preserve">
-    <value>Invalid ISO File</value>
+    <value>无效的ISO文件</value>
   </data>
   <data name="IsoInvalidMessage" xml:space="preserve">
-    <value>The selected file is not a valid ISO file.  Please select a valid ISO file and try again.</value>
+    <value>选定的文件不是有效的ISO文件。请选择一个有效的ISO文件，然后再试一次。</value>
   </data>
   <data name="IsoNotSelectedCaption" xml:space="preserve">
-    <value>ISO File Not Selected</value>
+    <value>没有选择ISO文件</value>
   </data>
   <data name="IsoNotSelectedMessage" xml:space="preserve">
-    <value>Please select an ISO file.</value>
+    <value>请选择一个ISO文件</value>
   </data>
   <data name="BeginBurningButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\en-US\ISO_begin_burning_button.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -215,126 +215,126 @@
     <value>..\Resources\RefreshButton.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RequireAdmin" xml:space="preserve">
-    <value>This application requires Administrator privileges.  Please restart the tool as an Administrator.</value>
+    <value>此应用程序需要管理员权限，请已管理员身份重新启动</value>
   </data>
   <data name="StatusBurning" xml:space="preserve">
-    <value>Burning disc...</value>
+    <value>光盘刻录中...</value>
   </data>
   <data name="StatusCanceled" xml:space="preserve">
-    <value>Backup canceled.  Click “Start over” to try again.</value>
+    <value>备份已取消。单击"重新开始"，再试一次。</value>
   </data>
   <data name="StatusCanceling" xml:space="preserve">
-    <value>Canceling...</value>
+    <value>正在取消...</value>
   </data>
   <data name="StatusComplete" xml:space="preserve">
-    <value>Backup completed.</value>
+    <value>备份完成</value>
   </data>
   <data name="StatusCopying" xml:space="preserve">
-    <value>Copying files...</value>
+    <value>正在复制文件...</value>
   </data>
   <data name="StatusDvdError" xml:space="preserve">
-    <value>The burning process failed.  Please check your DVD drive and the selected ISO file and try again.</value>
+    <value>刻录失败！请检查您的 DVD 驱动器和选定的 ISO 文件，然后再试一次。</value>
   </data>
   <data name="StatusFormatting" xml:space="preserve">
-    <value>Formatting...</value>
+    <value>正在格式化...</value>
   </data>
   <data name="StatusUsbError" xml:space="preserve">
-    <value>We were unable to copy your files.  Please check your USB device and the selected ISO file and try again.</value>
+    <value>我们是无法复制您的文件。请检查您的 USB 设备和所选的 ISO 文件，再试一次。</value>
   </data>
   <data name="TermsOfUseFileName" xml:space="preserve">
     <value>TermsOfUse.rtf</value>
   </data>
   <data name="TitleDvd" xml:space="preserve">
-    <value>Step 3 of 4: Insert blank DVD</value>
+    <value>第 3/4 步： 插入空白 DVD光盘</value>
   </data>
   <data name="TitleDvdProgress" xml:space="preserve">
-    <value>Step 4 of 4: Creating bootable DVD</value>
+    <value>第 4/4 步： 创建可启动的 DVD</value>
   </data>
   <data name="TitleDvdProgressComplete" xml:space="preserve">
-    <value>Bootable DVD created successfully</value>
+    <value>DVD启动盘创建成功</value>
   </data>
   <data name="TitleMain" xml:space="preserve">
-    <value>Step 1 of 4: Choose ISO file</value>
+    <value>第 1/4 步： 选择 ISO 文件</value>
   </data>
   <data name="TitleMediaType" xml:space="preserve">
-    <value>Step 2 of 4: Choose media type</value>
+    <value>第 2/4 步： 选择媒体类型</value>
   </data>
   <data name="TitleUsb" xml:space="preserve">
-    <value>Step 3 of 4: Insert USB device</value>
+    <value>第 3/4 步： 插入 USB 设备</value>
   </data>
   <data name="TitleUsbProgress" xml:space="preserve">
-    <value>Step 4 of 4: Creating bootable USB device</value>
+    <value>第 4/4 步： 创建可引导 USB 设备</value>
   </data>
   <data name="TitleUsbProgressComplete" xml:space="preserve">
-    <value>Bootable USB device created successfully</value>
+    <value>USB启动盘创建成功</value>
   </data>
   <data name="ToolTitle" xml:space="preserve">
-    <value>Microsoft ISO Backup Tool</value>
+    <value>Microsoft ISO 备份工具</value>
   </data>
   <data name="UnhandledException" xml:space="preserve">
-    <value>An unexpected error occurred.  If the problem continues please contact support.</value>
+    <value>发生错误。如果问题仍然存在请联系支持。</value>
   </data>
   <data name="UnhandledExceptionCaption" xml:space="preserve">
-    <value>Error in Application</value>
+    <value>应用程序中的错误</value>
   </data>
   <data name="UsbDefaultMessage" xml:space="preserve">
-    <value>If your device is not displayed click "Refresh."</value>
+    <value>如果未显示您的设备，则请单击"刷新"。</value>
   </data>
   <data name="UsbDeviceNotFoundMessage" xml:space="preserve">
-    <value>The selected USB device {0} could not be found.  Please verify the drive is properly connected and click “Refresh.”</value>
+    <value>找不到所选的 USB 设备 {0}。请验证该驱动器已正确连接，然后单击"刷新"。</value>
   </data>
   <data name="UsbDriveFormat" xml:space="preserve">
     <value>{0} - {1} Free</value>
   </data>
   <data name="UsbEraseConfirm" xml:space="preserve">
-    <value>You have selected to erase all of the contents from the selected USB device {0}.  All contents on this device will be lost.  Are you sure you want to do this?</value>
+    <value>您已选择从 USB 设备 {0} 抹去所有的内容。在此设备上的所有内容将都会丢失。你确定要这样做吗？</value>
   </data>
   <data name="UsbEraseMessage" xml:space="preserve">
-    <value>The selected USB device {0} must be erased in order to continue.  Do you want to erase all contents from this device?</value>
+    <value>所选的 USB 设备 {0} 必须格式化后才能继续使用。你想要删除此设备的所有内容吗？</value>
   </data>
   <data name="UsbFreeSpaceCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="UsbFreeSpaceCaption" xml:space="preserve">
-    <value>Not Enough Free Space</value>
+    <value>没有足够的可用空间</value>
   </data>
   <data name="UsbFreeSpaceErase" xml:space="preserve">
-    <value>Erase USB Device</value>
+    <value>删除 USB 设备</value>
   </data>
   <data name="UsbFreeSpaceMessage" xml:space="preserve">
-    <value>The selected USB device {0} does not have enough free space.  To continue, the contents of the device must be erased.  Would you like to erase all contents from the selected device?</value>
+    <value>所选的 USB 设备 {0} 没有足够的可用空间。若要继续，必须清除设备的内容。你想从所选的设备中抹去所有的内容吗？</value>
   </data>
   <data name="UsbImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\UsbImage.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UsbInUseMessage" xml:space="preserve">
-    <value>The selected USB device {0} is in use by another program.  Please close all applications and try again.</value>
+    <value>选定的 USB 设备 {0} 正在由另一个程序使用。请关闭所有应用程序，然后重试</value>
   </data>
   <data name="UsbInvalidMessage" xml:space="preserve">
-    <value>The selected USB device is not compatible with this tool.  Please select another USB device and try again.</value>
+    <value>所选的 USB 设备不是与此工具兼容。请选择另一个 USB 设备，然后重试。</value>
   </data>
   <data name="UsbNoDrivesDropDown" xml:space="preserve">
-    <value>No compatible USB devices detected</value>
+    <value>检测到不兼容的 USB 设备</value>
   </data>
   <data name="UsbNoDrivesMessage" xml:space="preserve">
-    <value>No compatible removable USB devices were detected.  Please connect a USB device that is at least 4GB and click “Refresh.”</value>
+    <value>检测到不兼容的可移动 USB 设备。请插上至少 4 GB 的 USB 设备，然后单击"刷新"。</value>
   </data>
   <data name="UsbOverwriteCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="UsbOverwriteCaption" xml:space="preserve">
-    <value>Files Already Exist</value>
+    <value>文件已经存在</value>
   </data>
   <data name="UsbOverwriteConfirm" xml:space="preserve">
-    <value>Overwrite Files</value>
+    <value>覆盖文件</value>
   </data>
   <data name="UsbOverwriteMessage" xml:space="preserve">
-    <value>Files of the same name already exist on {0}.  Would you like to overwrite these files?</value>
+    <value>{0} 上已存在具有相同名称的文件。是否要覆盖这些文件？</value>
   </data>
   <data name="UsbSizeMessage" xml:space="preserve">
-    <value>The selected USB device {0} is not large enough.  Please select a USB device that is at least 4GB and try again.</value>
+    <value>所选的 USB 设备 {0} 空间不足。请选择至少 4 GB 的 USB 设备，然后重试。</value>
   </data>
   <data name="StatusBootloaderError" xml:space="preserve">
-    <value>Files copied successfully.  However, we were unable to run bootsect to make the USB device bootable.  If you need assistance with bootsect, please click the "Online Help" link above for more information.</value>
+    <value>文件已成功复制。然而，我们都无法运行 bootsect，使 USB 设备启动。如果您需要 bootsect 的帮助信息，请单击上面的详细信息的"联机帮助"链接。</value>
   </data>
 </root>

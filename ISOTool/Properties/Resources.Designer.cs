@@ -111,7 +111,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Cancel Backup 的本地化字符串。
+        ///   查找类似 取消备份 的本地化字符串。
         /// </summary>
         internal static string ConfirmCancelCaption {
             get {
@@ -120,7 +120,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 You currently have a backup in progress.  Canceling the backup will leave your media in an invalid state.  Are you sure you wish to cancel? 的本地化字符串。
+        ///   查找类似 您有正在进行中的备份，取消备份将导致你的介质处于无效状态。您确定要取消吗？ 的本地化字符串。
         /// </summary>
         internal static string ConfirmCancelMessage {
             get {
@@ -139,7 +139,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Removable Disk 的本地化字符串。
+        ///   查找类似 可移动磁盘 的本地化字符串。
         /// </summary>
         internal static string DefaultDriveLabel {
             get {
@@ -148,7 +148,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 {0} (estimated time remaining {1}) 的本地化字符串。
+        ///   查找类似 {0} (估计剩余时间 {1}) 的本地化字符串。
         /// </summary>
         internal static string DvdBurningProgress {
             get {
@@ -167,7 +167,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The disc does not have sufficient free space.  Please insert a blank DVD and try again. 的本地化字符串。
+        ///   查找类似 磁盘没有足够的空闲空间，请插入一张空白dvd后再试一次。 的本地化字符串。
         /// </summary>
         internal static string DvdFreeSpaceMessage {
             get {
@@ -186,7 +186,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Unable to locate a compatible DVD drive.  Please make sure your DVD drive is connected and capable of creating discs. 的本地化字符串。
+        ///   查找类似 无法找到一个兼容的DVD驱动器。请确保能够连接到您的DVD驱动器并能够创建光盘。 的本地化字符串。
         /// </summary>
         internal static string DvdNoDrivesMessage {
             get {
@@ -195,7 +195,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 There is no disc in the drive.  Please insert a blank disc and try again. 的本地化字符串。
+        ///   查找类似 在驱动器中没有磁盘。请插入一张空白盘，然后再试一次。 的本地化字符串。
         /// </summary>
         internal static string DvdNoMediaMessage {
             get {
@@ -204,7 +204,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The disc is not blank.  Please insert a blank DVD and try again. 的本地化字符串。
+        ///   查找类似 光盘不是空白。请插入一张空白DVD，然后再试一次。 的本地化字符串。
         /// </summary>
         internal static string DvdNotBlankMessage {
             get {
@@ -213,7 +213,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The DVD drive is still trying to read the disc.  Please wait a few moments and try again. 的本地化字符串。
+        ///   查找类似 这个DVD驱动器仍然在读盘，请稍等片刻，然后再试一次。 的本地化字符串。
         /// </summary>
         internal static string DvdNotReadyMessage {
             get {
@@ -222,7 +222,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Ready to burn. Click &quot;Begin burning&quot; to create the backup DVD. 的本地化字符串。
+        ///   查找类似 准备刻录，点击“开始刻录”来创建DVD备份。 的本地化字符串。
         /// </summary>
         internal static string DvdReadyMessage {
             get {
@@ -250,7 +250,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Invalid ISO File 的本地化字符串。
+        ///   查找类似 无效的ISO文件 的本地化字符串。
         /// </summary>
         internal static string IsoInvalidCaption {
             get {
@@ -259,7 +259,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The selected file is not a valid ISO file.  Please select a valid ISO file and try again. 的本地化字符串。
+        ///   查找类似 选定的文件不是有效的ISO文件。请选择一个有效的ISO文件，然后再试一次。 的本地化字符串。
         /// </summary>
         internal static string IsoInvalidMessage {
             get {
@@ -268,7 +268,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 ISO File Not Selected 的本地化字符串。
+        ///   查找类似 没有选择ISO文件 的本地化字符串。
         /// </summary>
         internal static string IsoNotSelectedCaption {
             get {
@@ -277,7 +277,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Please select an ISO file. 的本地化字符串。
+        ///   查找类似 请选择一个ISO文件 的本地化字符串。
         /// </summary>
         internal static string IsoNotSelectedMessage {
             get {
@@ -336,7 +336,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 This application requires Administrator privileges.  Please restart the tool as an Administrator. 的本地化字符串。
+        ///   查找类似 此应用程序需要管理员权限，请已管理员身份重新启动 的本地化字符串。
         /// </summary>
         internal static string RequireAdmin {
             get {
@@ -355,7 +355,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Files copied successfully.  However, we were unable to run bootsect to make the USB device bootable.  If you need assistance with bootsect, please click the &quot;Online Help&quot; link above for more information. 的本地化字符串。
+        ///   查找类似 文件已成功复制。然而，我们都无法运行 bootsect，使 USB 设备启动。如果您需要 bootsect 的帮助信息，请单击上面的详细信息的&quot;联机帮助&quot;链接。 的本地化字符串。
         /// </summary>
         internal static string StatusBootloaderError {
             get {
@@ -364,7 +364,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Burning disc... 的本地化字符串。
+        ///   查找类似 光盘刻录中... 的本地化字符串。
         /// </summary>
         internal static string StatusBurning {
             get {
@@ -373,7 +373,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Backup canceled.  Click “Start over” to try again. 的本地化字符串。
+        ///   查找类似 备份已取消。单击&quot;重新开始&quot;，再试一次。 的本地化字符串。
         /// </summary>
         internal static string StatusCanceled {
             get {
@@ -382,7 +382,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Canceling... 的本地化字符串。
+        ///   查找类似 正在取消... 的本地化字符串。
         /// </summary>
         internal static string StatusCanceling {
             get {
@@ -391,7 +391,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Backup completed. 的本地化字符串。
+        ///   查找类似 备份完成 的本地化字符串。
         /// </summary>
         internal static string StatusComplete {
             get {
@@ -400,7 +400,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Copying files... 的本地化字符串。
+        ///   查找类似 正在复制文件... 的本地化字符串。
         /// </summary>
         internal static string StatusCopying {
             get {
@@ -409,7 +409,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The burning process failed.  Please check your DVD drive and the selected ISO file and try again. 的本地化字符串。
+        ///   查找类似 刻录失败！请检查您的 DVD 驱动器和选定的 ISO 文件，然后再试一次。 的本地化字符串。
         /// </summary>
         internal static string StatusDvdError {
             get {
@@ -418,7 +418,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Formatting... 的本地化字符串。
+        ///   查找类似 正在格式化... 的本地化字符串。
         /// </summary>
         internal static string StatusFormatting {
             get {
@@ -427,7 +427,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 We were unable to copy your files.  Please check your USB device and the selected ISO file and try again. 的本地化字符串。
+        ///   查找类似 我们是无法复制您的文件。请检查您的 USB 设备和所选的 ISO 文件，再试一次。 的本地化字符串。
         /// </summary>
         internal static string StatusUsbError {
             get {
@@ -445,7 +445,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Step 3 of 4: Insert blank DVD 的本地化字符串。
+        ///   查找类似 第 3/4 步： 插入空白 DVD光盘 的本地化字符串。
         /// </summary>
         internal static string TitleDvd {
             get {
@@ -454,7 +454,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Step 4 of 4: Creating bootable DVD 的本地化字符串。
+        ///   查找类似 第 4/4 步： 创建可启动的 DVD 的本地化字符串。
         /// </summary>
         internal static string TitleDvdProgress {
             get {
@@ -463,7 +463,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Bootable DVD created successfully 的本地化字符串。
+        ///   查找类似 DVD启动盘创建成功 的本地化字符串。
         /// </summary>
         internal static string TitleDvdProgressComplete {
             get {
@@ -472,7 +472,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Step 1 of 4: Choose ISO file 的本地化字符串。
+        ///   查找类似 第 1/4 步： 选择 ISO 文件 的本地化字符串。
         /// </summary>
         internal static string TitleMain {
             get {
@@ -481,7 +481,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Step 2 of 4: Choose media type 的本地化字符串。
+        ///   查找类似 第 2/4 步： 选择媒体类型 的本地化字符串。
         /// </summary>
         internal static string TitleMediaType {
             get {
@@ -490,7 +490,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Step 3 of 4: Insert USB device 的本地化字符串。
+        ///   查找类似 第 3/4 步： 插入 USB 设备 的本地化字符串。
         /// </summary>
         internal static string TitleUsb {
             get {
@@ -499,7 +499,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Step 4 of 4: Creating bootable USB device 的本地化字符串。
+        ///   查找类似 第 4/4 步： 创建可引导 USB 设备 的本地化字符串。
         /// </summary>
         internal static string TitleUsbProgress {
             get {
@@ -508,7 +508,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Bootable USB device created successfully 的本地化字符串。
+        ///   查找类似 USB启动盘创建成功 的本地化字符串。
         /// </summary>
         internal static string TitleUsbProgressComplete {
             get {
@@ -517,7 +517,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Microsoft ISO Backup Tool 的本地化字符串。
+        ///   查找类似 Microsoft ISO 备份工具 的本地化字符串。
         /// </summary>
         internal static string ToolTitle {
             get {
@@ -536,7 +536,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 An unexpected error occurred.  If the problem continues please contact support. 的本地化字符串。
+        ///   查找类似 发生错误。如果问题仍然存在请联系支持。 的本地化字符串。
         /// </summary>
         internal static string UnhandledException {
             get {
@@ -545,7 +545,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Error in Application 的本地化字符串。
+        ///   查找类似 应用程序中的错误 的本地化字符串。
         /// </summary>
         internal static string UnhandledExceptionCaption {
             get {
@@ -564,7 +564,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 If your device is not displayed click &quot;Refresh.&quot; 的本地化字符串。
+        ///   查找类似 如果未显示您的设备，则请单击&quot;刷新&quot;。 的本地化字符串。
         /// </summary>
         internal static string UsbDefaultMessage {
             get {
@@ -573,7 +573,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The selected USB device {0} could not be found.  Please verify the drive is properly connected and click “Refresh.” 的本地化字符串。
+        ///   查找类似 找不到所选的 USB 设备 {0}。请验证该驱动器已正确连接，然后单击&quot;刷新&quot;。 的本地化字符串。
         /// </summary>
         internal static string UsbDeviceNotFoundMessage {
             get {
@@ -591,7 +591,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 You have selected to erase all of the contents from the selected USB device {0}.  All contents on this device will be lost.  Are you sure you want to do this? 的本地化字符串。
+        ///   查找类似 您已选择从 USB 设备 {0} 抹去所有的内容。在此设备上的所有内容将都会丢失。你确定要这样做吗？ 的本地化字符串。
         /// </summary>
         internal static string UsbEraseConfirm {
             get {
@@ -600,7 +600,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The selected USB device {0} must be erased in order to continue.  Do you want to erase all contents from this device? 的本地化字符串。
+        ///   查找类似 所选的 USB 设备 {0} 必须格式化后才能继续使用。你想要删除此设备的所有内容吗？ 的本地化字符串。
         /// </summary>
         internal static string UsbEraseMessage {
             get {
@@ -609,7 +609,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Cancel 的本地化字符串。
+        ///   查找类似 取消 的本地化字符串。
         /// </summary>
         internal static string UsbFreeSpaceCancel {
             get {
@@ -618,7 +618,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Not Enough Free Space 的本地化字符串。
+        ///   查找类似 没有足够的可用空间 的本地化字符串。
         /// </summary>
         internal static string UsbFreeSpaceCaption {
             get {
@@ -627,7 +627,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Erase USB Device 的本地化字符串。
+        ///   查找类似 删除 USB 设备 的本地化字符串。
         /// </summary>
         internal static string UsbFreeSpaceErase {
             get {
@@ -636,7 +636,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The selected USB device {0} does not have enough free space.  To continue, the contents of the device must be erased.  Would you like to erase all contents from the selected device? 的本地化字符串。
+        ///   查找类似 所选的 USB 设备 {0} 没有足够的可用空间。若要继续，必须清除设备的内容。你想从所选的设备中抹去所有的内容吗？ 的本地化字符串。
         /// </summary>
         internal static string UsbFreeSpaceMessage {
             get {
@@ -655,7 +655,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The selected USB device {0} is in use by another program.  Please close all applications and try again. 的本地化字符串。
+        ///   查找类似 选定的 USB 设备 {0} 正在由另一个程序使用。请关闭所有应用程序，然后重试 的本地化字符串。
         /// </summary>
         internal static string UsbInUseMessage {
             get {
@@ -664,7 +664,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The selected USB device is not compatible with this tool.  Please select another USB device and try again. 的本地化字符串。
+        ///   查找类似 所选的 USB 设备不是与此工具兼容。请选择另一个 USB 设备，然后重试。 的本地化字符串。
         /// </summary>
         internal static string UsbInvalidMessage {
             get {
@@ -673,7 +673,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 No compatible USB devices detected 的本地化字符串。
+        ///   查找类似 检测到不兼容的 USB 设备 的本地化字符串。
         /// </summary>
         internal static string UsbNoDrivesDropDown {
             get {
@@ -682,7 +682,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 No compatible removable USB devices were detected.  Please connect a USB device that is at least 4GB and click “Refresh.” 的本地化字符串。
+        ///   查找类似 检测到不兼容的可移动 USB 设备。请插上至少 4 GB 的 USB 设备，然后单击&quot;刷新&quot;。 的本地化字符串。
         /// </summary>
         internal static string UsbNoDrivesMessage {
             get {
@@ -691,7 +691,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Cancel 的本地化字符串。
+        ///   查找类似 取消 的本地化字符串。
         /// </summary>
         internal static string UsbOverwriteCancel {
             get {
@@ -700,7 +700,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Files Already Exist 的本地化字符串。
+        ///   查找类似 文件已经存在 的本地化字符串。
         /// </summary>
         internal static string UsbOverwriteCaption {
             get {
@@ -709,7 +709,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Overwrite Files 的本地化字符串。
+        ///   查找类似 覆盖文件 的本地化字符串。
         /// </summary>
         internal static string UsbOverwriteConfirm {
             get {
@@ -718,7 +718,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Files of the same name already exist on {0}.  Would you like to overwrite these files? 的本地化字符串。
+        ///   查找类似 {0} 上已存在具有相同名称的文件。是否要覆盖这些文件？ 的本地化字符串。
         /// </summary>
         internal static string UsbOverwriteMessage {
             get {
@@ -727,7 +727,7 @@ namespace MicrosoftStore.IsoTool.Properties {
         }
         
         /// <summary>
-        ///   查找类似 The selected USB device {0} is not large enough.  Please select a USB device that is at least 4GB and try again. 的本地化字符串。
+        ///   查找类似 所选的 USB 设备 {0} 空间不足。请选择至少 4 GB 的 USB 设备，然后重试。 的本地化字符串。
         /// </summary>
         internal static string UsbSizeMessage {
             get {
